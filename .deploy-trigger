@@ -2,3 +2,4 @@ scalability-phase2 source=jorge2610g/yummy-retail staging=9f7124b8ae5d30d7d3ba2a
 release-gate source=jorge2610g/yummy-retail staging=528eaab640fa4c382ef9342e238ad7bb56b05c03 2026-09-26T19:35Z
 release-gate-fix source=jorge2610g/yummy-retail staging=488b07a0e6fd35f05d4d62ad9093c00e73703f58 2026-09-26T19:50Z
 protection-gate source-sha=ab387259dd7dbc47457b4b41d812c321d642f3c5
+final-guard-sync source-sha=fd6c70dc38314bbdcb634c3604b984fc0e564b83
