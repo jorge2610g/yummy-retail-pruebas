@@ -4,3 +4,4 @@ release-gate-fix source=jorge2610g/yummy-retail staging=488b07a0e6fd35f05d4d62ad
 protection-gate source-sha=ab387259dd7dbc47457b4b41d812c321d642f3c5
 final-guard-sync source-sha=fd6c70dc38314bbdcb634c3604b984fc0e564b83
 route-fix-source=4044633e6dcc0aa2518c9a15ffedd9a402b0a370
+pwa-fix-source=cb63cfff53ecabbd1f775650889c6344809ba89f
