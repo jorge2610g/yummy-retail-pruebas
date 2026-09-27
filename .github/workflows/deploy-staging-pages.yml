@@ -61,3 +61,5 @@ jobs:
         uses: actions/deploy-pages@v4
 
   # republish auditor fixes 2026-09-27 Retail v2.5.72
+
+  # republish retail 2.5.73 auditor final 2026-09-27
